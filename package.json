@@ -1,0 +1,14 @@
+{
+  "name": "dash-mp4-decrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "mpd-parser": "^0.15.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
